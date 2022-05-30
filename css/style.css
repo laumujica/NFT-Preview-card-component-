@@ -26,7 +26,7 @@ body {
 
 .card__container {
     background-color: var(--veryDark-blue-CardBG);
-    width: 375px;
+    width: 345px;
     border-radius: 30px;
     font-family: 'Outfit', sans-serif;
     position: relative;
@@ -41,16 +41,16 @@ body {
 }
 
 .card__img-img {
-    width: 320px;
+    width: 300px;
     border-radius: 10px;
-    margin-top: 27.5px;
+    margin-top: 22.5px;
 }
 
 .card__overlay {
     position: absolute;
-    margin-top: 27.5px;
-    width: 320px;
-    height: 320px;
+    margin-top: 22.5px;
+    width: 300px;
+    height: 300px;
     border-radius: 10px;
     transition: 0.5s ease;
     background: var(--cyan);
@@ -69,8 +69,8 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 30px;
-    width: 320px;
-    height: 320px;
+    width: 300px;
+    height: 300px;
     opacity: 0;
     cursor: pointer;
     transition: 0.5s ease;
@@ -83,8 +83,8 @@ body {
 .card__title {
     color: var(--white);
     font-weight: 600;
-    font-size: 20px;
-    margin-left: 27.5px;
+    font-size: 23.5px;
+    margin-left: 22.5px;
     margin-top: 25px;
     margin-bottom: 20px;
     letter-spacing: 1px;
@@ -101,7 +101,7 @@ body {
     font-size: 18px;
     letter-spacing: 0.35px;
     line-height: 1.5;
-    margin-left: 27.5px;
+    margin-left: 22.5px;
     margin-bottom: 20px;
 
 }
@@ -111,9 +111,9 @@ body {
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
-    margin-left: 27.5px;
-    margin-bottom: 20px;
-    width: 320px;
+    margin-left: 22.5px;
+    margin-bottom: 15px;
+    width: 300px;
 }
 
 .card__info-price {
@@ -140,9 +140,9 @@ body {
 
 .card__line {
     display: block;
-    margin-left: 27.5px;
-    margin-right: 27.5px;
-    margin-bottom: 20px;
+    margin-left: 22.5px;
+    margin-right: 22.5px;
+    margin-bottom: 15px;
     height: 1px;
     border: 0;
     border-top: 0.4px solid var(--veryDark-blue-Line);
@@ -156,7 +156,7 @@ body {
 }
 
 .card__avatar .avatar-img {
-    margin-left: 27.5px;
+    margin-left: 22.5px;
     border-radius: 50%;
     border: 1px solid var(--white);
     width: 10%;

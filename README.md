@@ -15,9 +15,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Screenshot
 
-- Web: ![Web](./web.png)
+- Web: ![Web](./web2.png)
 
-- Mobile: ![Mobile](./mobile.png)
+- Mobile: ![Mobile](./mobile2.png)
 
 
 ## Links
