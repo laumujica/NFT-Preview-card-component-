@@ -8,7 +8,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
@@ -16,15 +15,15 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Screenshot
 
-- Web: ![Web](./Screenshot-web.png)
+- Web: ![Web](./web.png)
 
-- Mobile: ![Mobile](./Screenshot-mobile.png)
+- Mobile: ![Mobile](./mobile.png)
 
 
 ## Links
 
-- Solution URL: [Git Repository](https://github.com/lauraamujica/QR-Card-component)
-- Live Site URL: [Git Pages](https://lauraamujica.github.io/QR-Card-component/)
+- Solution URL: [Git Repository](https://github.com/lauraamujica/NFT-Preview-card-component-)
+- Live Site URL: [Git Pages](https://lauraamujica.github.io/NFT-Preview-card-component-/)
 
 
 ## My process
