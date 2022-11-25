@@ -49,12 +49,12 @@ I-m so excited to keep on learning how to code this simple things. At first, I t
 - LinkedIn - [Laura Mujica](https://www.linkedin.com/in/lauraamujica/)
 
 - My first proyect for Coder House - [RAYÓNAPP](https://lauraamujica.github.io/RayonAPP-LauraMujica/) 
-    I invented an APP that I'd really like to exist, and made a website about it.
+    I created an APP that I'd really like to exist, and made a website about it.
 
 
 ## Acknowledgments
 
-I'm really thankful with the team in Coder House, with my students fellows, with my tutor, and far away from wanting to sound selfish, I'm really proud of me because I've had a couple of years very hard. I'm happy that I choose this path and I know that, even it won't get any easier, the benefits and the feelings of overcoming are going to be a lot of times greater. I believe in that.
+Far away from wanting to sound selfish, I'm really proud of me because I've had a couple of very rough years. I'm happy that I choose this path and I know that, even if it won't get any easier, the benefits and the feelings of overcoming are going to be a lot of times greater. I believe in that.
 
 Thank you so much. 
 Glad to exist right now.
